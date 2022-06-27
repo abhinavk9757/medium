@@ -1,0 +1,9 @@
+{
+  "name": "medium",
+  "version": "1.0.0",
+  "description": "Repository for my medium articles",
+  "main": "index.js",
+  "repository": "https://github.com/abhinavk9757/medium.git",
+  "author": "Abhinav Kumar (https://www.linkedin.com/in/abhinavk9757/)",
+  "license": "MIT"
+}
